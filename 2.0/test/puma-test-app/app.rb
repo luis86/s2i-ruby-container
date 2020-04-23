@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  'Hello world!'
+  'Hello Pugliese Web, I am running in Minishift!'
 end
